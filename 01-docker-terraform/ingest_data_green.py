@@ -28,7 +28,7 @@ def main(params):
 
     df_iter = pd.read_csv(csv_name, iterator=True, chunksize=100000)
 
-    df = next(df_iter)
+    df = next(df_iter)cd 
 
     df.lpep_pickup_datetime = pd.to_datetime(df.lpep_pickup_datetime)
     df.lpep_dropoff_datetime = pd.to_datetime(df.lpep_dropoff_datetime)
