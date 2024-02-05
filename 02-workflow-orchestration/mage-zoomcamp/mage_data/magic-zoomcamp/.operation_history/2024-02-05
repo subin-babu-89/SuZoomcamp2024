@@ -1,0 +1,5 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "intuitive_herald"}, "timestamp": 1707091989, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "daring_astronomer"}, "timestamp": 1707094676, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "lingering_meadow"}, "timestamp": 1707096038, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "load_to_gcp_copy"}, "timestamp": 1707097245, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "endearing_paladin"}, "timestamp": 1707099253, "user": null}
